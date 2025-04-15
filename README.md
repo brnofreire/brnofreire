@@ -21,7 +21,7 @@
 
 🔹 **Desenvolvedor Full-Stack Pleno | Laravel | PHP | React Native**
 📍 Grupo Pax Minas Avelar (Ago 2024 - Atualmente)
-- Desenvolvimento de sistemas CRM e ERP para 16 empresas.
+- Desenvolvimento de sistemas CRM e ERP para o grupo de empresas.
 - Criação de soluções escaláveis e personalizadas.
 - Implementação de APIs e dashboards interativos.
 
