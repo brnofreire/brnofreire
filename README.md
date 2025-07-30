@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Bruno!
 
-🚀 Full Stack Developer | PHP, Laravel 11, JavaScript, Blade, Bootstrap, React, Node.js, MySQL, Firebase
+🚀 Full Stack Developer | PHP, Laravel, React Native, JavaScript, Blade, Bootstrap, React, Node.js, MySQL, Firebase
 
 ## 🛠️ Tecnologias & Ferramentas
 
